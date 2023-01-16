@@ -9,4 +9,10 @@ public class Chien extends Animal {
     public String getNomAnimal() {
         return super.getNomAnimal();
     }
+
+    @Override
+    public void setNomAnimal(String nomAnimal) {
+        super.setNomAnimal(nomAnimal);
+    }
 }
+

@@ -2,10 +2,11 @@ package TP_api_maven.TP1;
 
 import java.util.ArrayList;
 import java.util.List;
-
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 public class Zoo {
     public int visiteurs;
-    private List<Secteur> secteurAnimaux=new ArrayList();
+    public List<Secteur> secteurAnimaux=new ArrayList();
     private int nbvisiteurMaxParSecteur;
 
     void ajouterSecteur(TypeAnimal ta){
