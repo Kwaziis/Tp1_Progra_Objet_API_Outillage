@@ -1,1 +1,4 @@
 [![Java CI with Maven](https://github.com/Kwaziis/Tp1_Progra_Objet_API_Outillage/actions/workflows/maven.yml/badge.svg)](https://github.com/Kwaziis/Tp1_Progra_Objet_API_Outillage/actions/workflows/maven.yml)
+[![Maven Package](https://github.com/Kwaziis/Tp1_Progra_Objet_API_Outillage/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/Kwaziis/Tp1_Progra_Objet_API_Outillage/actions/workflows/maven-publish.yml)
+<a href="https://codeclimate.com/github/Kwaziis/Tp1_Progra_Objet_API_Outillage/maintainability"><img src="https://api.codeclimate.com/v1/badges/69826256cdb122c09262/maintainability" /></a>
+<a href="https://codeclimate.com/github/Kwaziis/Tp1_Progra_Objet_API_Outillage/test_coverage"><img src="https://api.codeclimate.com/v1/badges/69826256cdb122c09262/test_coverage" /></a>
